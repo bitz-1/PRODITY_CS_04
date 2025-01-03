@@ -9,6 +9,9 @@ This repository contains a Python keylogger application that captures keystrokes
 
 ---
 
+## Developer Information
+- Developer: Apurv Nandgaonkar
+  
 ## Prerequisites
 Ensure the following tools are installed on your system:
 - Python 3.6+
@@ -112,5 +115,9 @@ app.listen(port, () => {
 
 ---
 
+## Screenshots
+Here’s a screenshot of the application:
+
+![App Screenshot](https://github.com/bitz-1/PRODITY_CS_04/blob/main/Screenshot%202025-01-03%20212540.png)
 ## License
 This project is licensed under the [MIT License](LICENSE).
